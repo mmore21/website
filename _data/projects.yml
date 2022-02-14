@@ -1,16 +1,13 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: ParkinVision
+  url: "https://github.com/mmore21/parkinvision"
+  description: <ul class="resume-item-list"><li>Built a hand-drawn spiral prediction machine learning model for Parkinson's disease with a full-stack web interface.</li><li>Achieved 80% accuracy by training a random forest machine learning model on a data set of hand-drawn spirals.</li><li>Integrated the Twilio API into the web application that would allow a user to draw a spiral, text the image to a phone number, and subsequently receive a reply from a custom API endpoint with the resulting model prediction.</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: cisum
+  url: "https://github.com/mmore21/cisum"
+  description: <ul class="resume-item-list"><li>Open source music player graphical user interface for Windows with an executable installer.</li><li>Utilized the Qt5 C++ framework to create a fully functionable interface with standard media player controls.</li><li>Features include the ability to import media tracks, create and modify playlists, and shuffle or loop songs.</li></ul>
+
+- project: mazchess
+  url: "https://github.com/mmore21/mazchess"
+  description: <ul class="resume-item-list"><li>Full-stack web application featuring a chess AI game engine built upon the Chess.js library.</li><li>Implemented a chess agent backend that uses the megamax search algorithm with a novel evaluation function.</li></ul>

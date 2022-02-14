@@ -1,19 +1,21 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: The Center for Artificial Intelligence in Diagnostic Medicine (CAIDM)
+  position: Applications Programmer
+  duration: May 2021 - Nov 2021
+  summary: <ul class="resume-item-list"><li>Lead the development of a contrastive learning project on 3D PET volumes to classify Alzheimer’s disease.</li><li>Worked with a team to develop a model architecture that used transcriptomics to identify genes that are correlated with amyotrophic lateral sclerosis (ALS).</li><li>Collaborated with physicians from UCI Health to gain medical insight towards the model design process.</li></ul>
 
+- company: The Center for Artificial Intelligence in Diagnostic Medicine (CAIDM)
+  position: Undergraduate Research Intern
+  duration: Jun 2020 - Apr 2021
+  summary: <ul class="resume-item-list"><li>Performed cutting edge research in deep learning architecture development for medical imaging tasks.</li><li>Created convolutional neural network models for kidney tumor segmentation using 3D MRI volumes.</li><li>Utilized TensorFlow 2.0 / Keras with an in-house GPU cluster to train model permutations.</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Ei Dynamics
+  position: Software Developer
+  duration: May 2020 - Jan 2021
+  summary: <ul class="resume-item-list"><li>Wrote scripts to parse JSON data from API endpoints into a backend database using SQL Server.</li><li>Created SQL reports and REST endpoints for clients per business requirements.</li><li>Refactored legacy code and optimized SQL stored procedures to increase query efficiency.</li><li>Utilized ASP.NET to update and maintain the company’s web application in accordance with new features.</li></ul>
+
+- company: Self-Employed
+  position: Software Developer
+  duration: 2016 - 2021
+  summary: <ul class="resume-item-list"><li>Self-taught full-stack web development using Ruby on Rails during high school.</li><li>Completed full-stack web applications for local and remote clients.</li></ul>
