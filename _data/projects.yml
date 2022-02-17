@@ -2,7 +2,7 @@
 
 - project: ParkinVision
   url: "https://github.com/mmore21/parkinvision"
-  description: <ul class="resume-item-list"><li>Built a hand-drawn spiral prediction machine learning model for Parkinson's disease with a full-stack web interface.</li><li>Achieved 80% accuracy by training a random forest machine learning model on a data set of hand-drawn spirals.</li><li>Integrated the Twilio API into the web application that would allow a user to draw a spiral, text the image to a phone number, and subsequently receive a reply from a custom API endpoint with the resulting model prediction.</li></ul>
+  description: <ul class="resume-item-list"><li>Built a hand-drawn spiral prediction machine learning model for Parkinson's disease with a full-stack web interface.</li><li>Achieved 80% accuracy by training a random forest machine learning model on a data set of hand-drawn spirals.</li><li>Integrated Twilio API into a web application allowing users to draw a spiral, text the image to a phone number, and receive a reply with the resulting model prediction.</li></ul>
 
 - project: cisum
   url: "https://github.com/mmore21/cisum"
@@ -10,4 +10,4 @@
 
 - project: mazchess
   url: "https://github.com/mmore21/mazchess"
-  description: <ul class="resume-item-list"><li>Full-stack web application featuring a chess AI game engine built upon the Chess.js library.</li><li>Implemented a chess agent backend that uses the megamax search algorithm with a novel evaluation function.</li></ul>
+  description: <ul class="resume-item-list"><li>Full-stack web application featuring a chess AI game engine built upon the Chess.js library.</li><li>Implemented a chess agent backend that uses the negamax search algorithm with a custom evaluation function.</li></ul>
